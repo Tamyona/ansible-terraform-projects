@@ -10,7 +10,6 @@ To do:
 2. Run
 
 Project-3: RDS
-1. Which way of Backend is more correct?
 
 Poject-4: Blue-Green Deployment
 

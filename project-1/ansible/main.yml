@@ -1,0 +1,5 @@
+- name: Jenkins Installation
+  hosts: all
+  become: yes
+  roles:
+    - jenkins

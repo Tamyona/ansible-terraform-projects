@@ -6,8 +6,9 @@ terraform {
   }
 }
 
+# Following lines automatically create S3 bucket
 # resource "aws_s3_bucket" "example" {
-#   bucket = "project-group-356"
+#   bucket = "project-tamyona"
 # }
 
 # resource "aws_s3_object" "object" {
